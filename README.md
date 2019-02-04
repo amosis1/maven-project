@@ -1,7 +1,5 @@
-#Readme de Amule Advance
+#Readme de mule Advance
 
-
-*************************
 1.Add thee remote repository "git remote add origin ..."
 2. Enter the repo "cd maven-project"
 3.(Optional) Set your MULE_HOME env variable: "export MULE_HOME=[locationOfMuleInstall]"
