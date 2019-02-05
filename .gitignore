@@ -45,4 +45,4 @@ local.properties
 .studio/
 flows/
 target/
-src/main/api/.repositoryderby.log/ 
+src/main/api/.repository/ 
